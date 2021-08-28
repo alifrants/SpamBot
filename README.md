@@ -1,1 +1,3 @@
 # SpamBot
+
+pip install pyautogui
